@@ -1,0 +1,27 @@
+{
+    "providerName": "World Racquetball Tour",
+    "lastUpdated": "2016-10-21T00:00:00+00:00",
+    "language": "en",
+    "tvSpecials": [ {
+         "id": "1509428502952",
+  "title": "Live World Racquetball Tour",
+  "content": {
+ "dateAdded": "2016-10-21T22:21:37+00:00",
+  "videos": [
+{
+  "url": "http://live-18.viewer.dacast.com/i/dclive_1@189115/master.m3u8",
+  "quality": "HD",
+  "videoType": "HLS"
+}
+  ],
+  "duration": 1290
+
+  },
+  "genres": [
+    "sports",
+  ],
+  "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+  "releaseDate": "2016-10-21",
+  "shortDescription": "Live WRT" }
+    ]
+}
